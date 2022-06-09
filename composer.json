@@ -1,6 +1,6 @@
 {
-    "name": "superbig/craft-template-select",
-    "description": "A fieldtype that allows you to select a template from a dropdown.",
+    "name": "brolik/craft-template-select",
+    "description": "A fieldtype that allows you to select a template from a dropdown. Based on superbig's plugin",
     "type": "craft-plugin",
     "version": "2.0.3",
     "keywords": [
@@ -42,7 +42,7 @@
         "schemaVersion": "2.0.0",
         "hasCpSettings": false,
         "hasCpSection": false,
-        "changelogUrl": "https://raw.githubusercontent.com/sjelfull/craft3-templateselect/master/CHANGELOG.md",
+        "changelogUrl": "https://raw.githubusercontent.com/jassok/craft-template-select/master/CHANGELOG.md",
         "class": "superbig\\templateselect\\TemplateSelect"
     }
 }

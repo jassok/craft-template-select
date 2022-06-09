@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.0.3 - 2022-05-09
+### Changed
+- Updated for craft 4
+- 
 ## 2.0.2 - 2019-05-22
 ### Fixed
 - Fixed template path resolution on Windows
